@@ -1,2 +1,2 @@
 # testpro
-creating test repo for demo use
+used in january of 2026 spring semester. 
